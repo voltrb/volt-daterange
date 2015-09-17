@@ -3109,3 +3109,4 @@
     return _moment;
 
 }));
+console.log('loaded moment');
